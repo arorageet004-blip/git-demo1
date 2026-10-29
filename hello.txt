@@ -1,2 +1,3 @@
 hello git
 this is second time 
+3rd line added to feature 1 
